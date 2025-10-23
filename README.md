@@ -2,27 +2,21 @@
 Green Software is an intelligent energy management platform designed to help users monitor, control, and optimize their energy consumption. By integrating with smart and non-smart devices, it provides personalized, AI-driven strategies to reduce carbon footprint and enhance energy efficiency in real-time.
 
 # ✨ Key Features
-Unified Energy Management: Centralizes energy data from various sources in one intuitive platform.
+**Unified Energy Management:** Centralizes energy data from various sources in one intuitive platform.
 
-AI-Driven Personalization: Offers customized energy-saving strategies based on user patterns.
+**AI-Driven Personalization:** Offers customized energy-saving strategies based on user patterns.
 
-Real-Time IoT Integration: Seamlessly connects with smart devices for immediate monitoring and control.
+**Carbon Footprint Detection:** Provides carbon emission forecasts and reduction strategies.
 
-Carbon Footprint Detection: Provides carbon emission forecasts and reduction strategies.
+**Automated Device Control:** Manages appliance operations automatically based on real-time conditions.
 
-Automated Device Control: Manages appliance operations automatically based on real-time conditions.
+**Seasonal Energy Optimization:** Delivers season-specific recommendations for maximum efficiency.
 
-Seasonal Energy Optimization: Delivers season-specific recommendations for maximum efficiency.
+**User-Friendly Interface:** Features a sleek design with AI-powered assistance for ease of use.
 
-Robust Security: Ensures data protection with advanced encryption and compliance with privacy standards.
+**Cross-Platform Accessibility:** Offers a consistent experience across desktop, mobile, and tablet devices.
 
-User-Friendly Interface: Features a sleek design with AI-powered assistance for ease of use.
-
-Renewable Energy Integration: Monitors and optimizes the use of renewable energy sources.
-
-Cross-Platform Accessibility: Offers a consistent experience across desktop, mobile, and tablet devices.
-
-Smart & Non-Smart Device Compatibility: Transforms non-smart devices into smart ones for comprehensive energy management.
+**Smart & Non-Smart Device Compatibility:** Transforms non-smart devices into smart ones for comprehensive energy management.
 
 # 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
